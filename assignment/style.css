@@ -1,7 +1,61 @@
-/* Give your page a fun background color */
-#grad {
+body {
+    
     background-image: linear-gradient(to bottom right, rgb(243, 183, 105), rgb(190, 131, 175));
+    padding: 30px;
+    margin: 5% 5%;
   }
+
+  h1 {
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    font-family: "Lucida Console", fantasy, Bold;
+  }
+
+  h2 {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    font-family: Garamond, serif;
+  }
+
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 60%;
+        border: 3px solid #ffd84b;
+      }
+
+    p {
+        color:blanchedalmond;
+        text-align: center;
+        font-style: italic;
+     }
+
+    ul {
+        font-family: cursive;
+        color: rgb(255, 255, 255);
+    }
+
+    footer {
+        text-align: center;
+        padding: 3px;
+        background-color: DarkSalmon;
+        color: white;
+        
+      }
+
+      header {
+        
+        background-color: rgb(218, 167, 150);
+        color: white;
+        border-radius: 50%;
+        
+    
+      }
+
+/* Give your page a fun background color */
 
 /* Make the header and footer a different color from the background */
 
