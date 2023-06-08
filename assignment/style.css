@@ -1,4 +1,7 @@
 /* Give your page a fun background color */
+#grad {
+    background-image: linear-gradient(to bottom right, rgb(243, 183, 105), rgb(190, 131, 175));
+  }
 
 /* Make the header and footer a different color from the background */
 
